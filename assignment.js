@@ -1,6 +1,7 @@
 
- // https://github.com/asrahim88/javascriptFirstAssignment
 
+
+ // https://github.com/asrahim88/javascriptFirstAssignment
 
 
  //  *----------------*****kilometerToMeter*****----------------*
@@ -32,7 +33,6 @@
             const totalPrice = watchPrice + phonePrice + laptopPrice;
             return totalPrice;
         }
-        
     }
     // const budgetProduct = budgetCalculator(1, 500, 5);
     // console.log(budgetProduct);
